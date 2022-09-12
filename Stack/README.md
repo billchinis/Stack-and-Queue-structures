@@ -3,10 +3,10 @@ StringStackImpl.java implements the interface `StringStack.java` and there is a 
 
 # Files
 * StringStack.java: stack interface.
-* -StringStackImpl.java: stack implementation.
-* -ListNode.java: Singly linked list implementation.
-* -TagMatching.java: Main program that uses all the above to check if an html is correct.
-* -example.html: Correct html example.
+* StringStackImpl.java: stack implementation.
+* ListNode.java: Singly linked list implementation.
+* TagMatching.java: Main program that uses all the above to check if an html is correct.
+* example.html: Correct html example.
 
 # HowTo
 Open cmd in the same folder as the files and run the commands below.
