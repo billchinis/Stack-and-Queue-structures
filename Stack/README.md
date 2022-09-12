@@ -13,6 +13,6 @@ Open cmd in the same folder as the files and run the commands below.
 
 example.txt has the specific format buy x price y, sell z price w
 
-javac NetBenefit.java
+`javac NetBenefit.java`
 
-java NetBenefit example.txt
+`java NetBenefit example.txt`
